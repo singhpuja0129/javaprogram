@@ -1,0 +1,20 @@
+import java.awt.*;
+public class AwtEx extends Frame{
+	Button b1,b2;
+	Label l1,l2,l3,l4,l5;
+	TextField tf1,tf2;
+	Panel P;
+	public AwtEx(){
+	setTitle("First frame");
+	setBackground(Color.GRAY);//f.setBackground(ne Color(40,60,90));
+	setLayout(null);
+	setSize(400,300);
+	l1=new Label("Mini Calculator");
+	p.setForground(Color.YELLOW);
+	p.setBounds(60,100,240,140)
+	add(p);
+	l2=new Label("Enter 1st No.")
+	l2.setBounds(50,20,80,20);
+	p.add(tf1);
+	tf1=new TextField()
+	
